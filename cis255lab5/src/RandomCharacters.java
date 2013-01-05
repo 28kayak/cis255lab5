@@ -35,7 +35,7 @@ public class RandomCharacters extends JPanel
 		frame.setSize(400, 400);
 		frame.setVisible(true);
 		
-		
+		System.out.println("kaya");
 	}
 	
 }//class
